@@ -1,0 +1,5 @@
+
+Apoio python3 funções de Estatística
+
+https://www.geeksforgeeks.org/python-statistics-stdev/
+
